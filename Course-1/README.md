@@ -1,6 +1,5 @@
 # Course 1 - Getting Started
 
-- [Course 1 - Getting Started](#course-1---getting-started)
   - [什麼是 Angular](#什麼是-angular)
   - [Angular vs Angular 2 vs Latest Angular Version](#angular-vs-angular-2-vs-latest-angular-version)
   - [安裝](#安裝)
