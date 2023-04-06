@@ -5,6 +5,7 @@
   - [安裝](#安裝)
   - [實作綁定 ngModel](#實作綁定-ngmodel)
   - [課程架構](#課程架構)
+  - [補充](#補充)
 
 ## 什麼是 Angular
 
@@ -54,5 +55,11 @@ Angular CLI 生成出的檔案有這些
 ## 課程架構
 
 ![image](https://user-images.githubusercontent.com/59633053/230334675-86e438d6-10df-4750-a3c7-ec4ae8b0d542.png)
+
+## 補充
+
+![image](https://user-images.githubusercontent.com/59633053/230346114-d525c55c-daea-4d1f-a56f-ca1df83b266d.png)
+
+
 
 課程資料來源 : [Angular - The Complete Guide(2023 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
