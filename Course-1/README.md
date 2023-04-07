@@ -51,6 +51,7 @@ Angular CLI 生成出的檔案有這些
 ![image](https://user-images.githubusercontent.com/59633053/230332743-04360f4a-24e4-41b6-822d-7435e7fd65d1.png)
 
 簡單的實作就完成了
+[my-first-app](https://github.com/chenxuanzzy/Angular-TheCompleteGuide2023/tree/main/my-first-app)
 
 ## 課程架構
 
